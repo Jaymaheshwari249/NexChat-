@@ -1,2 +1,2 @@
-# NexChat-
+# NextChat-
 Full Stack Real-Time Chat App
